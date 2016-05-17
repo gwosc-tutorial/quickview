@@ -2,7 +2,7 @@
 
 ## LOSC Data Quickview
 
-Welcome! This ipython notebook is intended to provided a quick look at short segments of data from the <a href='https://losc.ligo.org/'>LIGO Open Science Center</a>
+Welcome! This IPython notebook provides a quick look at short segments of data from the <a href='https://losc.ligo.org/'>LIGO Open Science Center</a>
 
 * Set the GPS time (t0) and data set in the first cell
 * Click "Run All" in the cell menu at the top
