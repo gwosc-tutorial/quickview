@@ -6,7 +6,7 @@ Welcome! This IPython notebook provides a quick look at short segments of data f
 
 * Set the GPS time (t0) and data set in the first cell
 * Click "Run All" in the cell menu at the top
-* Your plots will appear at the <a href='#PSD,-Whitened-Data,-and-Spectrogram'>bottom of the page</a>.
+* Your plots will appear at the bottom of the page.
 
 
 This repository is an experimental "data quick view" for the LIGO Open Science Center.
