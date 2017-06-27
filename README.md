@@ -11,9 +11,7 @@ Welcome! This IPython notebook provides a quick look at short segments of data f
 
 This repository is an experimental "data quick view" for the LIGO Open Science Center.
 
-To try the notebook, click the <a href='http://mybinder.org/repo/losc-tutorial/quickview'>Launch Binder</a> button.
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/losc-tutorial/quickview)
+You can try running the notebook in <a href='http://beta.mybinder.org/repo/losc-tutorial/quickview'>Beta Version of Binder</a>
 
 
 
