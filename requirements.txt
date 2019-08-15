@@ -2,3 +2,4 @@ h5py
 matplotlib
 scipy
 gwpy
+gwosc
