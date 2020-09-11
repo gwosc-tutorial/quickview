@@ -9,8 +9,8 @@ Welcome! This IPython notebook provides a quick look at short segments of data f
 * Your plots will appear at the bottom of the page.
 
 
-Click the badge to launch:
+Click a badge to run the notebook: 
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/losc-tutorial/quickview/master?filepath=index.ipynb)
 
-
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/losc-tutorial/quickview/blob/master/index.ipynb)
